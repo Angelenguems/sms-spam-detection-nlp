@@ -1,0 +1,10 @@
+# Requirements for SMS Spam Detection using NLP & Machine Learning
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+nltk
+matplotlib
+seaborn
+jupyter
