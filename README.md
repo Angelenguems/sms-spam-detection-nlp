@@ -72,4 +72,3 @@ These results highlight the importance of selecting feature representations adap
 
 ---
 
-## Repository Structure
